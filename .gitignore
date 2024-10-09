@@ -1,0 +1,10 @@
+# OS
+Icon
+Thumbs.db
+.DS_Store
+
+# Vendor
+/node_modules/
+
+# Built files
+/dist/
