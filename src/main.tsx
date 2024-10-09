@@ -1,6 +1,5 @@
-import App from '@/components/App'
-import 'modern-normalize/modern-normalize.css'
 import '@/global.css'
+import App from '@/components/App'
 import { render } from 'solid-js/web'
 
 const root = document.getElementById('root')

@@ -1,3 +1,4 @@
+import 'modern-normalize/modern-normalize.css'
 import { globalStyle as g } from '@vanilla-extract/css'
 
 g(':where(body)', {
