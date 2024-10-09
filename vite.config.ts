@@ -5,6 +5,7 @@ import solidPlugin from 'vite-plugin-solid'
 const src = new URL('./src', import.meta.url)
 
 export default {
+	clearScreen: false,
 	plugins: [solidPlugin(), vanillaExtractPlugin()],
 	resolve: {
 		alias: {
