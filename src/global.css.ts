@@ -13,7 +13,7 @@ g(':where(body)', {
 	 */
 	MozOsxFontSmoothing: 'grayscale',
 	lineHeight: 1.4,
-	fontFamily: 'inherit',
+	fontFamily: 'sans-serif',
 })
 
 g(':where(blockquote, dl, dd, h1, h2, h3, h4, h5, h6, hr, figure, p, pre)', {
